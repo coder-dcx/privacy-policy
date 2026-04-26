@@ -1,0 +1,12 @@
+# Jekyll configuration for GitHub Pages
+theme: null
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Files to exclude
+exclude:
+  - .git
+  - .github
+  - README.md

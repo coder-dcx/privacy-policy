@@ -2,6 +2,10 @@
 
 This repository contains comprehensive legal documents and policies for [App Name]. These documents help ensure compliance with data protection regulations and establish clear terms with users.
 
+## 🌐 Live Site
+
+View all policies at: **https://coder-dcx.github.io/privacy-policy/**
+
 ## 📋 Available Documents
 
 ### [Privacy Policy](PRIVACY_POLICY.md)
