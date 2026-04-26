@@ -1,103 +1,187 @@
 # Terms of Service
 
-**Effective Date:** April 26, 2026  
-**Last Updated:** April 26, 2026
+**Last Updated: [Date]**
 
-## 1. Acceptance of Terms
+## Agreement to Terms
 
-By accessing or using our application and website (collectively, the "Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the Service.
+By accessing or using [App Name] ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
 
-We reserve the right to modify these Terms at any time. We will provide notice of significant changes by updating the "Last Updated" date. Your continued use of the Service after any changes constitutes your acceptance of the revised Terms.
+## Description of Service
 
-## 2. Eligibility
+[App Name] provides [brief description of what your app does]. We reserve the right to modify, suspend, or discontinue any aspect of the service at any time.
 
-You must be at least 13 years old to use the Service. By using the Service, you represent and warrant that you meet this age requirement and that you have the legal capacity to enter into a binding agreement.
+## User Accounts
 
-## 3. User Accounts
+### Registration
 
-### 3.1 Registration
+- You must provide accurate and complete information when creating an account
+- You are responsible for maintaining the confidentiality of your account credentials
+- You must be at least 13 years old (or 16 in certain jurisdictions) to create an account
+- One person or entity may not maintain multiple accounts
 
-Some features of the Service may require you to create an account. You agree to:
+### Account Security
 
-- Provide accurate, current, and complete information during registration.
-- Maintain the security of your password and account credentials.
-- Notify us immediately of any unauthorised use of your account.
-- Accept responsibility for all activities that occur under your account.
+- You are responsible for all activities that occur under your account
+- Notify us immediately of any unauthorized use of your account
+- We are not liable for any loss or damage arising from your failure to maintain account security
 
-### 3.2 Account Termination
+## Acceptable Use
 
-We reserve the right to suspend or terminate your account at our sole discretion if you violate these Terms or engage in conduct we deem harmful to the Service or other users.
+You agree not to:
 
-## 4. Acceptable Use
+- Violate any applicable laws or regulations
+- Infringe on intellectual property rights of others
+- Upload or transmit viruses, malware, or malicious code
+- Harass, abuse, or harm other users
+- Attempt to gain unauthorized access to our systems
+- Use the App for any illegal or unauthorized purpose
+- Scrape, spider, or crawl the App without permission
+- Interfere with or disrupt the integrity or performance of the App
+- Create accounts through automated means or false pretenses
+- Impersonate any person or entity
 
-You agree to use the Service only for lawful purposes and in a manner that does not infringe the rights of others. You must not:
+## Intellectual Property
 
-- Violate any applicable local, national, or international law or regulation.
-- Transmit unsolicited promotional material (spam).
-- Attempt to gain unauthorised access to any part of the Service or its related systems.
-- Upload or distribute viruses, malware, or other malicious code.
-- Interfere with or disrupt the integrity or performance of the Service.
-- Collect or harvest personal data about other users without their consent.
-- Use the Service to infringe intellectual property rights of any person or entity.
+### Our Content
 
-## 5. Intellectual Property
+All content, features, and functionality of the App, including but not limited to:
+- Text, graphics, logos, images
+- Software and code
+- Design and layout
+- Trademarks and service marks
 
-### 5.1 Our Content
+are owned by us or our licensors and are protected by copyright, trademark, and other intellectual property laws.
 
-All content, features, and functionality of the Service — including but not limited to text, graphics, logos, icons, images, audio clips, and software — are owned by us or our licensors and are protected by applicable intellectual property laws.
+### Your Content
 
-### 5.2 Limited Licence
+- You retain ownership of content you submit to the App
+- By submitting content, you grant us a worldwide, non-exclusive, royalty-free license to use, reproduce, modify, and display your content in connection with the service
+- You represent that you have the right to submit the content and grant us this license
+- You are responsible for your content and any consequences of posting it
 
-We grant you a limited, non-exclusive, non-transferable, revocable licence to access and use the Service for personal, non-commercial purposes in accordance with these Terms.
+## Payment Terms
 
-### 5.3 User Content
+### Fees
 
-By submitting, posting, or displaying content through the Service ("User Content"), you grant us a worldwide, royalty-free, non-exclusive licence to use, reproduce, modify, and distribute that content solely to operate and improve the Service. You retain all ownership rights in your User Content.
+- Certain features may require payment of fees
+- All fees are non-refundable unless otherwise stated
+- Prices are subject to change with notice
+- You are responsible for all charges incurred under your account
 
-You represent and warrant that you own or have the necessary rights to submit User Content and that it does not violate any third-party rights.
+### Subscriptions
 
-## 6. Disclaimers
+- Subscriptions automatically renew unless cancelled
+- You must cancel before the renewal date to avoid being charged
+- Refund policies are specified at the time of purchase
 
-THE SERVICE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+## Disclaimers
 
-We do not warrant that the Service will be uninterrupted, error-free, or free of viruses or other harmful components.
+### "AS IS" Service
 
-## 7. Limitation of Liability
+THE APP IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- Warranties of merchantability
+- Fitness for a particular purpose
+- Non-infringement
+- Accuracy or reliability
 
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATED TO YOUR USE OF OR INABILITY TO USE THE SERVICE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+### No Guarantee
 
-OUR TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATED TO THE SERVICE SHALL NOT EXCEED THE GREATER OF (A) THE AMOUNT YOU PAID US IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM OR (B) USD $100.
+- We do not guarantee the App will be uninterrupted, secure, or error-free
+- We do not guarantee the accuracy or reliability of any information obtained through the App
+- We do not guarantee that defects will be corrected
 
-## 8. Indemnification
+## Limitation of Liability
 
-You agree to indemnify, defend, and hold harmless us and our officers, directors, employees, and agents from and against any claims, liabilities, damages, losses, and expenses (including reasonable legal fees) arising out of or in any way connected with your access to or use of the Service, your User Content, or your violation of these Terms.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
-## 9. Third-Party Services
+- WE SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES
+- THIS INCLUDES DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES
+- OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID US IN THE PAST 12 MONTHS, OR $100, WHICHEVER IS GREATER
 
-The Service may contain links to or integrations with third-party websites or services. We do not control these third parties and are not responsible for their content or practices. Your interactions with third-party services are governed by their own terms and privacy policies.
+## Indemnification
 
-## 10. Governing Law and Dispute Resolution
+You agree to indemnify, defend, and hold harmless [App Name], its officers, directors, employees, and agents from any claims, liabilities, damages, losses, and expenses (including legal fees) arising from:
+- Your use of the App
+- Your violation of these Terms
+- Your violation of any rights of another party
 
-These Terms shall be governed by and construed in accordance with the laws of the applicable jurisdiction, without regard to its conflict of law provisions.
+## Termination
 
-Any dispute arising out of or relating to these Terms or the Service shall first be attempted to be resolved through good-faith negotiation. If negotiation fails, disputes shall be submitted to binding arbitration in accordance with applicable arbitration rules.
+### By You
 
-## 11. Severability
+You may terminate your account at any time by contacting us or using the account deletion feature.
 
-If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the remaining Terms will otherwise remain in full force and effect.
+### By Us
 
-## 12. Entire Agreement
+We may terminate or suspend your account immediately, without prior notice, if you:
+- Breach these Terms
+- Engage in fraudulent or illegal activities
+- Create risk or legal exposure for us
 
-These Terms, together with our [Privacy Policy](PRIVACY_POLICY.md), constitute the entire agreement between you and us regarding your use of the Service and supersede all prior agreements and understandings.
+### Effect of Termination
 
-## 13. Contact Us
+Upon termination:
+- Your right to use the App ceases immediately
+- We may delete your account and content
+- You remain liable for any outstanding obligations
 
-If you have any questions about these Terms, please contact us at:
+## Dispute Resolution
 
-**Email:** legal@example.com  
-**Mailing Address:**  
-Legal Team  
-[Company Name]  
-[Street Address]  
-[City, State/Province, ZIP/Postal Code]  
-[Country]
+### Governing Law
+
+These Terms are governed by the laws of [Your Jurisdiction], without regard to conflict of law provisions.
+
+### Arbitration
+
+Any disputes arising from these Terms or the App shall be resolved through binding arbitration, except:
+- You may assert claims in small claims court if they qualify
+- We may seek injunctive relief in court to protect our intellectual property
+
+### Class Action Waiver
+
+You agree to resolve disputes on an individual basis only. You waive any right to participate in a class action lawsuit or class-wide arbitration.
+
+## Changes to Terms
+
+We reserve the right to modify these Terms at any time. We will notify you of material changes by:
+- Posting updated Terms with a new "Last Updated" date
+- Sending an email notification
+- Displaying a prominent notice in the App
+
+Your continued use of the App after changes constitutes acceptance of the modified Terms.
+
+## General Provisions
+
+### Entire Agreement
+
+These Terms constitute the entire agreement between you and us regarding the App.
+
+### Waiver
+
+Our failure to enforce any provision of these Terms does not constitute a waiver of that provision.
+
+### Severability
+
+If any provision of these Terms is found to be unenforceable, the remaining provisions will remain in effect.
+
+### Assignment
+
+You may not assign or transfer these Terms without our consent. We may assign these Terms without restriction.
+
+### Force Majeure
+
+We are not liable for any failure to perform due to circumstances beyond our reasonable control.
+
+## Contact Information
+
+If you have questions about these Terms, please contact us:
+
+- **Email**: [support@yourapp.com]
+- **Address**: [Your Company Address]
+- **Phone**: [Your Phone Number]
+
+---
+
+**Acknowledgment**
+
+By using [App Name], you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
